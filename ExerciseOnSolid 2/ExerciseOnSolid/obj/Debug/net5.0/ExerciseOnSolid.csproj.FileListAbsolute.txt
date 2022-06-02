@@ -1,0 +1,16 @@
+/Users/mohammedalsalem/Downloads/ExerciseOnSolid 2/ExerciseOnSolid/bin/Debug/net5.0/ExerciseOnSolid
+/Users/mohammedalsalem/Downloads/ExerciseOnSolid 2/ExerciseOnSolid/bin/Debug/net5.0/ExerciseOnSolid.deps.json
+/Users/mohammedalsalem/Downloads/ExerciseOnSolid 2/ExerciseOnSolid/bin/Debug/net5.0/ExerciseOnSolid.runtimeconfig.json
+/Users/mohammedalsalem/Downloads/ExerciseOnSolid 2/ExerciseOnSolid/bin/Debug/net5.0/ExerciseOnSolid.runtimeconfig.dev.json
+/Users/mohammedalsalem/Downloads/ExerciseOnSolid 2/ExerciseOnSolid/bin/Debug/net5.0/ExerciseOnSolid.dll
+/Users/mohammedalsalem/Downloads/ExerciseOnSolid 2/ExerciseOnSolid/bin/Debug/net5.0/ref/ExerciseOnSolid.dll
+/Users/mohammedalsalem/Downloads/ExerciseOnSolid 2/ExerciseOnSolid/bin/Debug/net5.0/ExerciseOnSolid.pdb
+/Users/mohammedalsalem/Downloads/ExerciseOnSolid 2/ExerciseOnSolid/obj/Debug/net5.0/ExerciseOnSolid.csproj.AssemblyReference.cache
+/Users/mohammedalsalem/Downloads/ExerciseOnSolid 2/ExerciseOnSolid/obj/Debug/net5.0/ExerciseOnSolid.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mohammedalsalem/Downloads/ExerciseOnSolid 2/ExerciseOnSolid/obj/Debug/net5.0/ExerciseOnSolid.AssemblyInfoInputs.cache
+/Users/mohammedalsalem/Downloads/ExerciseOnSolid 2/ExerciseOnSolid/obj/Debug/net5.0/ExerciseOnSolid.AssemblyInfo.cs
+/Users/mohammedalsalem/Downloads/ExerciseOnSolid 2/ExerciseOnSolid/obj/Debug/net5.0/ExerciseOnSolid.csproj.CoreCompileInputs.cache
+/Users/mohammedalsalem/Downloads/ExerciseOnSolid 2/ExerciseOnSolid/obj/Debug/net5.0/ExerciseOnSolid.dll
+/Users/mohammedalsalem/Downloads/ExerciseOnSolid 2/ExerciseOnSolid/obj/Debug/net5.0/ref/ExerciseOnSolid.dll
+/Users/mohammedalsalem/Downloads/ExerciseOnSolid 2/ExerciseOnSolid/obj/Debug/net5.0/ExerciseOnSolid.pdb
+/Users/mohammedalsalem/Downloads/ExerciseOnSolid 2/ExerciseOnSolid/obj/Debug/net5.0/ExerciseOnSolid.genruntimeconfig.cache
